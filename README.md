@@ -5,6 +5,10 @@ A full‑stack **real‑time chat application** where users can **chat and liste
 Built with **React (Vite)** on the client and **Node.js + WebSocket** on the server.
 
 ---
+** Deployed Link : ** 
+```
+https://chat-app-frontend-kgfp.vercel.app/
+```
 
 ## ✨ Features
 
